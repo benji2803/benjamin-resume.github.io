@@ -66,7 +66,7 @@
     <h3>Technical Proficiencies:</h3>
     <ul>
         <li><strong>Operating Systems:</strong> Mac OS, Windows OS, Linux Mint OS</li>
-        <li><strong>Programming Languages:</strong> Java, Python, JavaScript, Bash, Shell</li>
+        <li><strong>Programming Languages:</strong> Java, Python, JavaScript, Bash, Shell, html, SQL</li>
         <li><strong>Software:</strong> Microsoft Word, PowerPoint, Microsoft Office, Microsoft Teams, Microsoft Outlook, Microsoft Troubleshooter, Apple Diagnostics</li>
     </ul>
 
